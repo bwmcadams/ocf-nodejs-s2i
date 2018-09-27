@@ -1,0 +1,12 @@
+`npm install ocf-nodejs-adapter` 
+
+and then
+
+`./node_modules/ocf-nodejs-adapter/bin/run ./myfunc/index.js`
+
+and then
+
+http://localhost:8080/
+
+
+
